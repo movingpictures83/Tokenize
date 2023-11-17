@@ -1,0 +1,2 @@
+Prefix plugins/Tokenize/example/
+Plugin Tokenize inputfile complaints.csv outputfile none
